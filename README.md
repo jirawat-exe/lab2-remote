@@ -5,8 +5,8 @@
 ** StudentID ** : 61070025
 ** Name ** : Jirawat Pratumthin
 
-> King mongkut's institude of technology ladkrabang
+> [King mongkut's institude of technology ladkrabang](https://kmitl.ac.th)
 
 ```
-print("hello world")
+print("hello Ladkrabang")
 ```
